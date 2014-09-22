@@ -34,7 +34,7 @@
 * <https://github.com/openlogic/signed_xml>
 
 ## Пример использования
-```
+```c
 // Usage:
 //
 // PART 1
